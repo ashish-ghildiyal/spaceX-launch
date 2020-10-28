@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/ashish-ghildiyal/spacex-launch/static/css/main.0e588ae8.chunk.css",
-    "main.js": "/ashish-ghildiyal/spacex-launch/static/js/main.ce21666c.chunk.js",
-    "main.js.map": "/ashish-ghildiyal/spacex-launch/static/js/main.ce21666c.chunk.js.map",
-    "runtime-main.js": "/ashish-ghildiyal/spacex-launch/static/js/runtime-main.f222966a.js",
-    "runtime-main.js.map": "/ashish-ghildiyal/spacex-launch/static/js/runtime-main.f222966a.js.map",
-    "static/js/2.023e1bb3.chunk.js": "/ashish-ghildiyal/spacex-launch/static/js/2.023e1bb3.chunk.js",
-    "static/js/2.023e1bb3.chunk.js.map": "/ashish-ghildiyal/spacex-launch/static/js/2.023e1bb3.chunk.js.map",
-    "static/js/3.258f692c.chunk.js": "/ashish-ghildiyal/spacex-launch/static/js/3.258f692c.chunk.js",
-    "static/js/3.258f692c.chunk.js.map": "/ashish-ghildiyal/spacex-launch/static/js/3.258f692c.chunk.js.map",
-    "index.html": "/ashish-ghildiyal/spacex-launch/index.html",
-    "static/css/main.0e588ae8.chunk.css.map": "/ashish-ghildiyal/spacex-launch/static/css/main.0e588ae8.chunk.css.map",
-    "static/js/2.023e1bb3.chunk.js.LICENSE.txt": "/ashish-ghildiyal/spacex-launch/static/js/2.023e1bb3.chunk.js.LICENSE.txt"
+    "main.css": "/spacex-launch/static/css/main.0e588ae8.chunk.css",
+    "main.js": "/spacex-launch/static/js/main.ce21666c.chunk.js",
+    "main.js.map": "/spacex-launch/static/js/main.ce21666c.chunk.js.map",
+    "runtime-main.js": "/spacex-launch/static/js/runtime-main.40726c77.js",
+    "runtime-main.js.map": "/spacex-launch/static/js/runtime-main.40726c77.js.map",
+    "static/js/2.023e1bb3.chunk.js": "/spacex-launch/static/js/2.023e1bb3.chunk.js",
+    "static/js/2.023e1bb3.chunk.js.map": "/spacex-launch/static/js/2.023e1bb3.chunk.js.map",
+    "static/js/3.258f692c.chunk.js": "/spacex-launch/static/js/3.258f692c.chunk.js",
+    "static/js/3.258f692c.chunk.js.map": "/spacex-launch/static/js/3.258f692c.chunk.js.map",
+    "index.html": "/spacex-launch/index.html",
+    "static/css/main.0e588ae8.chunk.css.map": "/spacex-launch/static/css/main.0e588ae8.chunk.css.map",
+    "static/js/2.023e1bb3.chunk.js.LICENSE.txt": "/spacex-launch/static/js/2.023e1bb3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f222966a.js",
+    "static/js/runtime-main.40726c77.js",
     "static/js/2.023e1bb3.chunk.js",
     "static/css/main.0e588ae8.chunk.css",
     "static/js/main.ce21666c.chunk.js"
