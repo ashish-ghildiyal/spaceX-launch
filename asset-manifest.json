@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/spacex-launch/static/css/main.173d1f2f.chunk.css",
-    "main.js": "/spacex-launch/static/js/main.a7f0ecbb.chunk.js",
-    "main.js.map": "/spacex-launch/static/js/main.a7f0ecbb.chunk.js.map",
+    "main.css": "/spacex-launch/static/css/main.d0fac104.chunk.css",
+    "main.js": "/spacex-launch/static/js/main.49787c10.chunk.js",
+    "main.js.map": "/spacex-launch/static/js/main.49787c10.chunk.js.map",
     "runtime-main.js": "/spacex-launch/static/js/runtime-main.40726c77.js",
     "runtime-main.js.map": "/spacex-launch/static/js/runtime-main.40726c77.js.map",
     "static/js/2.023e1bb3.chunk.js": "/spacex-launch/static/js/2.023e1bb3.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.258f692c.chunk.js": "/spacex-launch/static/js/3.258f692c.chunk.js",
     "static/js/3.258f692c.chunk.js.map": "/spacex-launch/static/js/3.258f692c.chunk.js.map",
     "index.html": "/spacex-launch/index.html",
-    "static/css/main.173d1f2f.chunk.css.map": "/spacex-launch/static/css/main.173d1f2f.chunk.css.map",
+    "static/css/main.d0fac104.chunk.css.map": "/spacex-launch/static/css/main.d0fac104.chunk.css.map",
     "static/js/2.023e1bb3.chunk.js.LICENSE.txt": "/spacex-launch/static/js/2.023e1bb3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.40726c77.js",
     "static/js/2.023e1bb3.chunk.js",
-    "static/css/main.173d1f2f.chunk.css",
-    "static/js/main.a7f0ecbb.chunk.js"
+    "static/css/main.d0fac104.chunk.css",
+    "static/js/main.49787c10.chunk.js"
   ]
 }
